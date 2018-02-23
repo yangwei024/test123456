@@ -20,7 +20,7 @@ ___强调___
 
 [百度一下，你就知道](http://www.baidu.com "百度一下")
 
-![百度](/http://img07.tooopen.com/images/20170316/tooopen_sy_201956178977.jpg "百度图片")
+![百度](http://img07.tooopen.com/images/20170316/tooopen_sy_201956178977.jpg "百度图片")
 
 
 `

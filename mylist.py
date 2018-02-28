@@ -1,14 +1,14 @@
-mylist = ["List item 1", 2, 3.14]
+mylist = ["List item 1", 3, 3.14]
 print mylist[0:2]
 
-mylist1 = ["List item 1", 2, 3.14]
+mylist1 = ["List item 1", 3, 3.14]
 print mylist1[0:2]
 
-mylist2 = ["List item 1", 2, 3.14]
+mylist2 = ["List item 1", 3, 3.14]
 print mylist1[0:2]
 
-mylist3 = ["List item 1", 2, 3.14]
+mylist3 = ["List item 1", 3, 3.14]
 print mylist1[0:2]
 
-mylist4 = ["List item 1", 2, 3.14]
+mylist4 = ["List item 1", 3, 3.14]
 print mylist1[0:2]
